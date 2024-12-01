@@ -59,4 +59,4 @@ Exploratory Data Analysis
 * import pickle
 * import streamlit as st
 
-### (get the data from dataset).
+### (get the data from dataset which uploaded in our repository).
