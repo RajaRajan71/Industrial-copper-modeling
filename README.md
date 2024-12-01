@@ -5,18 +5,18 @@ The copper industry, while dealing with relatively simple data on sales and pric
 🌋 Manufacturing
 
 # 🛅Technologies Used:
-1.Python
-2.Numpy
-3.Pandas
-4.Scikit-learn
-5.Matplotlib
-6.Seaborn
-7.Pickle
-8.Streamlit
+.Python
+.Numpy
+.Pandas
+.Scikit-learn
+.Matplotlib
+.Seaborn
+.Pickle
+.Streamlit
 
 
 # 🛅 Approaches:
-1.Python scripting, 
+1.Python scripting,
 2.Data Preprocessing,
 3.EDA, 
 4.Streamlit.
