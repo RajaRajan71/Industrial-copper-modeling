@@ -5,21 +5,21 @@ The copper industry, while dealing with relatively simple data on sales and pric
 🌋 Manufacturing
 
 ## 🛅Technologies Used:
-.Python
-.Numpy
-.Pandas
-.Scikit-learn
-.Matplotlib
-.Seaborn
-.Pickle
-.Streamlit
+* Python
+* Numpy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Pickle
+* Streamlit
 
 
 ## 🛅 Approaches:
-1.Python scripting,
-2.Data Preprocessing,
-3.EDA, 
-4.Streamlit.
+* Python scripting,
+* Data Preprocessing,
+* EDA, 
+* Streamlit.
 
 ## 🛅 Data Understanding:
 🌋Load and understand the copper data through CSV files. Check the data for consistency and completeness.
@@ -51,12 +51,12 @@ Exploratory Data Analysis
 * pip install imblearn  (!- before installation)
 
 # 💻 Import Packages:
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-from streamlit_option_menu import option_menu
-import pickle
-import streamlit as st
+* import pandas as pd
+* import numpy as np
+* import seaborn as sns
+* import matplotlib.pyplot as plt
+* from streamlit_option_menu import option_menu
+* import pickle
+* import streamlit as st
 
-get the data from dataset.
+### (get the data from dataset).
