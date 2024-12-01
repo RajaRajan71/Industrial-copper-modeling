@@ -1,10 +1,10 @@
 # 🏚️ Industrial-copper-modeling
 The copper industry, while dealing with relatively simple data on sales and pricing, often encounters challenges that can hinder accurate predictions and effective decision-making.Specifically, the project focuses on building a regression model to predict the selling price and a classification model to predict the status (WON/LOST) of leads. Additionally, an interactive Streamlit web application will be created to facilitate real-time predictions using these models.
 
-# 💼 Domain:
+## 💼 Domain:
 🌋 Manufacturing
 
-# 🛅Technologies Used:
+## 🛅Technologies Used:
 .Python
 .Numpy
 .Pandas
@@ -15,7 +15,7 @@ The copper industry, while dealing with relatively simple data on sales and pric
 .Streamlit
 
 
-# 🛅 Approaches:
+## 🛅 Approaches:
 1.Python scripting,
 2.Data Preprocessing,
 3.EDA, 
@@ -39,10 +39,10 @@ Exploratory Data Analysis
 
 🌋 ML Classification model which predicts Status WON or LOST
 
-# Streamlit:
+## Streamlit:
 🌋 In a Streamlit page,Developed a user interface for interacting with the models. Predicted selling price and status based on user input.
 
-# 📨 Pip install packages:
+## 📨 Pip install packages:
 * pip install scikit-learn 
 * pip install xgboost 
 * pip install streamlit 
