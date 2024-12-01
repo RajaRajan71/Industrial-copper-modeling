@@ -43,12 +43,12 @@ Exploratory Data Analysis
 🌋 In a Streamlit page,Developed a user interface for interacting with the models. Predicted selling price and status based on user input.
 
 # 📨 Pip install packages:
-pip install scikit-learn 
-pip install xgboost 
-pip install streamlit 
-pip install pickle
-pip install scipy
-pip install imblearn  (!- before installation)
+* pip install scikit-learn 
+* pip install xgboost 
+* pip install streamlit 
+* pip install pickle
+* pip install scipy
+* pip install imblearn  (!- before installation)
 
 # 💻 Import Packages:
 import pandas as pd
